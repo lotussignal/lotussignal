@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "419585002411",
+    "project_id": "lotus-signal-d0dc4",
+    "storage_bucket": "lotus-signal-d0dc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419585002411:android:1ab4e3941d47f8838220ee",
+        "android_client_info": {
+          "package_name": "com.lotussignal.signally"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419585002411-hu51g1lt57r6tebdus1rfijupnmeneea.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lotussignal.signally",
+            "certificate_hash": "86ce14a9940f64ea4ae27ee08092652a38b55ee1"
+          }
+        },
+        {
+          "client_id": "419585002411-dknso5jn7fi0c8j7atj2g7itqdihfioe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF-qXMv1SDe6JHC9KO5ACtgIXGUkEDrNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419585002411-35cv17rvmsl72ke81c1nrnc1ge9vg8eo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
